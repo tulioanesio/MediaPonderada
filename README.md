@@ -13,5 +13,5 @@ This project is a simple website that calculates the weighted average of grades 
 ## Access the Website
 
 The website is hosted on Vercel.  
-🔗 [Click here to access](https://media-pesos.vercel.app/)
+🔗 [Click here to access](https://weighted-average.vercel.app/)
 
